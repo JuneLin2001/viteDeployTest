@@ -37,7 +37,7 @@ const Counter = () => {
 const App = () => {
   return (
     <div>
-      <Header title = "Grocery List"  itemTotal ={1}/>
+      <Header title = "Grocery List test3310"  itemTotal ={1}/>
       <Items />
     </div>
   );
